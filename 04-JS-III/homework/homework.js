@@ -1,12 +1,12 @@
 // No cambies los nombres de las funciones.
 
-function devolverPrimerElemento(array) {
+function devolverPrimerElemento('hola') {
   // Devuelve el primer elemento de un  array (pasado por parametro)
   // Tu código:
 }
 
 
-function devolverUltimoElemento(array) {
+function devolverUltimoElemento(numero) {
   // Devuelve el último elemento de un array
   // Tu código:
 }
@@ -14,9 +14,7 @@ function devolverUltimoElemento(array) {
 
 function obtenerLargoDelArray(array) {
   // Devuelve el largo de un array
-  // Tu código:
-}
-
+  // Tu cód
 
 function incrementarPorUno(array) {
   // "array" debe ser una matriz de enteros (int/integers)
